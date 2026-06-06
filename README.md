@@ -1,7 +1,7 @@
 # msd-surrogate-optimization
 
 Neural-network-based surrogate modeling and optimization of a two-degree-of-freedom Mass-Spring-Damper (MSD) robotic system.
-
+ 
 =====================================================================
 PROJECT OVERVIEW
 =====================================================================
