@@ -192,9 +192,9 @@ The trained surrogate model is coupled with Differential Evolution to identify t
 
 ## Authors
 
-Maria Paulina Pantoja Gavidia
-Carmen Natalia de León Bercián
+- Maria Paulina Pantoja Gavidia
+- Carmen Natalia de León Bercián
 
-Politecnico di Milano
-Mechine Learning for Mechanical Systems
+Politecnico di Milano>
+Mechine Learning for Mechanical Systems>
 2025/2026
